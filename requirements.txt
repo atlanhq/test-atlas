@@ -17,7 +17,7 @@ numpy==1.19.5
 pyjwt==1.7.1
 pymssql==2.2.4
 pyotp==2.6.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pytest-shutil==1.7.0
 pytest==6.2.4
 pyvelociraptor==0.1.6
