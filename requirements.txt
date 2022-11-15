@@ -13,3 +13,14 @@ mysql-connector-python==8.0.28
 mysqlclient==2.1.0
 o365==2.0.11
 paramiko==2.7.1
+numpy==1.19.5
+pyjwt==1.7.1
+pymssql==2.2.4
+pyotp==2.6.0
+PyPDF2==1.26.0
+pytest-shutil==1.7.0
+pytest==6.2.4
+pyvelociraptor==0.1.6
+regex==2022.3.2
+log4python==0.2.5
+numpy==0.1.3
